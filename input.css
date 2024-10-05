@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav_link {
+    @apply font-roboto text-base font-normal hover:text-[brown]
+}
